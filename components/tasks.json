@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Kl\u00e1ra task manager verkefni\u00f0!",
+        "description": "Koma svo!",
+        "priority": "1",
+        "due_date": "2019-10-21",
+        "id": "5da7296e5788f",
+        "submit": "Add Task"
+    },
+    {
+        "title": "\u00d3 borg m\u00edn borg",
+        "description": "asdfasdf",
+        "priority": "3",
+        "due_date": "0665-06-05",
+        "id": "5da7335340022",
+        "submit": "Add Task"
+    },
+    {
+        "title": "asdfasd",
+        "description": "asdfasdfas",
+        "priority": "3",
+        "due_date": "0066-06-06",
+        "id": "5da7335bc13d8",
+        "submit": "Add Task"
+    },
+    {
+        "title": "asdfasdf",
+        "description": "asdfasdf",
+        "priority": "3",
+        "due_date": "0005-05-05",
+        "id": "5da7353af095c",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Brj\u00e1la\u00f0 stu\u00f0!",
+        "description": "asdfasdf",
+        "priority": "3",
+        "due_date": "0555-05-05",
+        "id": "5da7375720471",
+        "submit": "Add Task"
+    },
+    {
+        "title": "\u00d3 borg m\u00edn borg",
+        "description": "asdfasdfasdf",
+        "priority": "1",
+        "due_date": "0044-04-04",
+        "id": "5da73b30bfbf3",
+        "submit": "Add Task"
+    },
+    {
+        "title": "\u00d3 borg m\u00edn borg",
+        "description": "asdfasdf",
+        "priority": "4",
+        "due_date": "44444-04-04",
+        "id": "5da73b9060569",
+        "submit": "Add Task"
+    },
+    {
+        "title": "\u00d3 borg m\u00edn borg",
+        "description": "asdfasd",
+        "priority": "3",
+        "due_date": "1984-07-06",
+        "id": "5da73b998f9d8",
+        "submit": "Add Task"
+    },
+    {
+        "title": "\u00d3 borg m\u00edn borg",
+        "description": "asdfasd",
+        "priority": "3",
+        "due_date": "1984-07-06",
+        "id": "5da73b998f9d8",
+        "submit": "Add Task"
+    },
+    {
+        "title": "\u00d3 borg m\u00edn borg",
+        "description": "asdfasd",
+        "priority": "3",
+        "due_date": "1984-07-06",
+        "id": "5da73b998f9d8",
+        "submit": "Add Task"
+    },
+    {
+        "title": "PHP",
+        "description": "\u00deetta spjald er \u00ed bo\u00f0i PHP",
+        "priority": "1",
+        "due_date": "2019-12-24",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Brj\u00e1la\u00f0 stu\u00f0!",
+        "description": "\u00dea\u00f0 er alltaf stu\u00f0",
+        "priority": "2",
+        "due_date": "2020-02-12",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "asdfasdf",
+        "description": "asdfasdf",
+        "priority": "1",
+        "due_date": "0004-04-04",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Fara \u00ed sund!",
+        "description": "Fara \u00ed sund tvisvar yfir helgina!",
+        "priority": "1",
+        "due_date": "2019-10-20",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Fara \u00ed sund!",
+        "description": "Fara \u00ed sund tvisvar yfir helgina!",
+        "priority": "1",
+        "due_date": "2019-10-20",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Fara \u00ed sund!",
+        "description": "Fara \u00ed sund tvisvar yfir helgina!",
+        "priority": "1",
+        "due_date": "2019-10-20",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Fara \u00ed sund!",
+        "description": "Fara \u00ed sund tvisvar yfir helgina!",
+        "priority": "1",
+        "due_date": "2019-10-20",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Vinna \u00ed ritger\u00f0 ",
+        "description": "Vinna \u00ed ritger\u00f0 \u00ed 3-4 klst um helgina ",
+        "priority": "1",
+        "due_date": "2019-10-20",
+        "id": "",
+        "submit": "Add Task"
+    },
+    {
+        "title": "Lesa b\u00f3k",
+        "description": "Lesa b\u00f3k \u00ed minnst 2klst yfir helgina ",
+        "priority": "3",
+        "due_date": "2019-10-20",
+        "id": "",
+        "submit": "Add Task"
+    }
+]

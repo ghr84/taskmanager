@@ -1,0 +1,25 @@
+Frontpage*
+- List of tasks organized by status columns (To Do, Doing, Done) - Trello-like
+- There is an Add button that leads to the Add page
+- Each task has the option to change its status via select menu
+- Each task has a button that leads to the Update page
+- Each task has a button that leads to the Delete function
+​
+*Add page*
+- Empty form used to add a new task
+- On success go to Homepage and display success message
+​
+*Update page*
+- Form filled with the card's information
+- Option to update the tasks details
+- On update show success message
+​
+*Update task status function (access via button from Homepage)*
+- No user interface
+- Receives POST data, updates the task, redirects to homepage
+​
+*Delete task function (access via button from Homepage)*
+- No user interface
+- Receives POST data, deletes the task, redirects to homepage
+​
+Obs.: The system should check for all possible errors and display warning messages about them.

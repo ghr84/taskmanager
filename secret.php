@@ -1,0 +1,2 @@
+<?php
+$pword = 'Lestubok84';

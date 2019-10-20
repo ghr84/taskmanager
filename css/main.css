@@ -1,0 +1,60 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  color: white;
+}
+
+.container {
+  margin: 3rem;
+}
+.container input, .container textarea, .container select {
+  margin: 1rem 0;
+}
+.container .heading {
+  margin: 0.5rem 0 2.5rem 0;
+}
+
+.no-task-msg {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
+
+.container-frontpage {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 4rem;
+}
+.container-frontpage .to-do, .container-frontpage .doing, .container-frontpage .done {
+  width: 33.33%;
+  text-align: center;
+}
+.container-frontpage .to-do h3, .container-frontpage .doing h3, .container-frontpage .done h3 {
+  margin: 1.5rem 0;
+}
+.container-frontpage .to-do .task-card, .container-frontpage .doing .task-card, .container-frontpage .done .task-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 30rem;
+  width: 19rem;
+  text-align: left;
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid lightgrey;
+}
+.container-frontpage .to-do .task-card .card-drop-down, .container-frontpage .doing .task-card .card-drop-down, .container-frontpage .done .task-card .card-drop-down {
+  align-self: center;
+}
+.container-frontpage .to-do .task-card .btn-holder, .container-frontpage .doing .task-card .btn-holder, .container-frontpage .done .task-card .btn-holder {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.container-frontpage .to-do .task-card .btn-holder button, .container-frontpage .doing .task-card .btn-holder button, .container-frontpage .done .task-card .btn-holder button {
+  width: 48%;
+}
+
+/*# sourceMappingURL=main.css.map */
