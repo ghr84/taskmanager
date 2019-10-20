@@ -42,7 +42,7 @@ function create_task($task_data)
     $sql .= "'" . $task_data['title'] . "',";
     $sql .= "'" . $task_data['description'] . "',";
     $sql .= $task_data['priority'] . ",";
-    $sql .= "'" . $task_data['due_date'] . " 00:00:00'";
+    $sql .= "'" . $task_data['due_date'] . "'";
     $sql .= ")";
 
 
@@ -55,7 +55,7 @@ function create_task($task_data)
 }
 function get_task($task_id)
 {
-    var_dump($task_id);
+    //var_dump($task_id);
     if (!$task_id) {
         die('No ID available');
     }
@@ -66,13 +66,13 @@ function get_task($task_id)
 
     if ($result->num_rows > 0) {
         while ($row = $result->fetch_assoc()) {
-            echo "ID: " . $row['ID'] . "<br>";
-            echo "Title: " . $row['title'] . "<br>";
-            echo "Description: " . $row['description'] . "<br>";
-            echo "Priority: " . $row['priority'] . "<br>";
-            echo "Due date: " . $row['due_date'] . "<br>";
-            echo "Created date: " . $row['created_date'] . "<br>";
-            echo "Status: " . $row['status'] . "<br>";
+            //echo "ID: " . $row['ID'] . "<br>";
+            // echo "Title: " . $row['title'] . "<br>";
+            // echo "Description: " . $row['description'] . "<br>";
+            // echo "Priority: " . $row['priority'] . "<br>";
+            // echo "Due date: " . $row['due_date'] . "<br>";
+            // echo "Created date: " . $row['created_date'] . "<br>";
+            // echo "Status: " . $row['status'] . "<br>";
             return $row;
         }
     }
@@ -91,7 +91,7 @@ function update_task($edit_card_data)
 
     $connection = connect();
     if ($connection->query($sql) === TRUE) {
-        //echo "Record updated successfully";
+        echo "Record updated successfully";
     } else {
         echo "Error updating record: " . $connection->error;
     }

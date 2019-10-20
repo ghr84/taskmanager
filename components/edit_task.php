@@ -1,7 +1,6 @@
 <?php
 include('./header.php');
 include('../functions.php');
-
 if (isset($_POST['submit'])) {
     update_task($_POST);
     $title = $_POST['title'];
@@ -20,6 +19,7 @@ $due_date = $task['due_date'];
 $status = $task['status'];
 $id = $task['ID'];
 ?>
+
 <div class="container">
     <div class="task-card">
         <form action="" method="POST">

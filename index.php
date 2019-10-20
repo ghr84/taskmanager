@@ -1,5 +1,7 @@
 <?php
 
+
+
 if (isset($_POST['edit'])) {
     $task_id = $_POST['ID'];
     header('Location: /components/edit_task.php/?ID=' . $task_id, true, ($permanent === true) ? 301 : 302);

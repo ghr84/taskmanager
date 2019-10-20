@@ -1,0 +1,12 @@
+mySQL database is named: "task_manager" and includes one table called: "Tasks".
+The table "Tasks" then includes 7 rows, named: 
+- ID 
+- title
+- description
+- priority
+- due_date
+- created_date
+- status 
+
+These columns are connected to my webpage and take in the data from the user threw 
+input fields(newß_card.php).  
